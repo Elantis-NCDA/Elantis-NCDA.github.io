@@ -13,7 +13,7 @@ import {
 } from "./query-assigned-elements-0bb34a8a.js";
 var _templateObject, config = {
         controlName: "JS Insert",
-        groupName: "Ashley Presales",
+        groupName: "JS Insert",
         fallbackDisableSubmit: !1,
         description: "Execute JS on Form",
         version: "1.0",
